@@ -23,3 +23,5 @@ const b = (a, b, callback) => {
 //inline callback with fat arrow noataion
 //b(4, 5, (a,b) => {console.log (a+b)}); 
 b(4, 5, 43)
+
+//Done
